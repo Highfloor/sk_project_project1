@@ -22,3 +22,11 @@
 - 키워드 검색함수로 키워드별로 데이터 축소
 <img src= https://user-images.githubusercontent.com/123059090/229729759-d5501c04-07e9-411d-8702-d75205f30b96.png>
 <img src = https://user-images.githubusercontent.com/123059090/229729857-2af15e17-9519-4331-bd74-f5141842c04f.png>
+- 축소 결과
+<img src = https://user-images.githubusercontent.com/123059090/229730227-c74e8bc6-d41d-4e9b-ad4c-1a1f382e6c09.png>
+
+# 결론-시각화
+## Quality 태그수를 리뷰 전체 개수로 나눈 비율 그래프
+<img src = https://user-images.githubusercontent.com/123059090/229730554-43cd8c01-bbbd-4198-86b4-76264bdaf182.png>
+## 음식점 별 원형 그래프
+<img src = https://user-images.githubusercontent.com/123059090/229730770-359432bb-a723-4fc7-9419-65d2b7e074ef.png >
