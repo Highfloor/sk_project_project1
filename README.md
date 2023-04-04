@@ -6,4 +6,19 @@
     - 맛집 리뷰 사이트에서 리뷰 텍스트 데이터 수집
     - 키워드 별로 리뷰데이터 재가공
 # 데이터 수집
+- 사이트에서 리뷰부분의 데이터를 크롤링
 <img src =https://user-images.githubusercontent.com/123059090/229727216-18f45dc2-a663-4818-9a7c-1e558e2e17f7.png>
+- 위의 사진 부분에서 텍스트를 뽑아낸 결과
+<img src= https://user-images.githubusercontent.com/123059090/229727807-8074cbad-88b8-4135-8a05-e26e42fcf539.png>
+
+# 데이터 정제
+- 크롤링된 텍스트 전세계의 언어로 된 텍스트를 한국어로 번역
+<img src = "https://user-images.githubusercontent.com/123059090/229728796-1fd6648e-74b2-410f-b338-084c9c4d2832.png">
+
+- 수집된 리뷰를 키워드별로 나누기 위해 해시태그 및 키워드 설정
+<img src = https://user-images.githubusercontent.com/123059090/229729177-66fb4d10-9375-46be-bb8a-2b45330b65f3.png>
+<img src = https://user-images.githubusercontent.com/123059090/229729344-ca16514c-85a6-4e49-afde-e88ea41a3861.png>
+# 키워드 수집
+- 키워드 검색함수로 키워드별로 데이터 축소
+<img src= https://user-images.githubusercontent.com/123059090/229729759-d5501c04-07e9-411d-8702-d75205f30b96.png>
+<img src = https://user-images.githubusercontent.com/123059090/229729857-2af15e17-9519-4331-bd74-f5141842c04f.png>
